@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moxie95
+- 👋 Hi, I’m Moxie
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me @Discord Moxie#2344
